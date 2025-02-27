@@ -2,7 +2,7 @@
 
 A modern, full-stack user management application built with **Next.js** and **NestJS**, featuring secure authentication, profile management, and a playful UX touch.
 
-![User Management System](https://i.imgur.com/your-demo-image.png)
+![User Management System]([https://i.imgur.com/your-demo-image.png](https://github.com/Ady000/User-management/blob/main/Screenshot%202025-02-27%20181638.png))
 
 ## ✨ Features
 
@@ -130,7 +130,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Contributors
 
-- Your Name - [GitHub](https://github.com/yourusername)
+- Your Name - [GitHub](https://github.com/ady000)
 
 ## 🙏 Acknowledgements
 
